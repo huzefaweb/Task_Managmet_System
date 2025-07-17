@@ -16,12 +16,19 @@ Operate in an organized, modular architecture
 
 🔧 Concepts Mastered Per Phase
 Phase	Concept	Description
+
 1	Variables, Strings, Numbers	Defined task title, due date, and priority with correct data types
+
 2	Lists, Dictionaries, Tuples, Sets	Used to store and process tasks with various attributes
+
 3	Control Flow	Implemented if, for, and conditions to drive the task logic
+
 4	Functions, Lambda	Created reusable logic and on-the-fly filters
+
 5	OOP: Classes, Inheritance, Iterators	Built Task, TaskList, with custom iterators & filtering logic
+
 6	File I/O, Exception Handling	Loaded/saved tasks as JSON and gracefully handled file corruption
+
 7	Decorators, Multithreading, Manual Triggers	Created a reminder decorator and allowed user-controlled execution
 
 🧠 Technical Skills Demonstrated
