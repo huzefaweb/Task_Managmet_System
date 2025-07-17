@@ -1,7 +1,8 @@
 # Task_Managmet_System
 Task Management System – A Python Mastery Case Study
 
-🎯 Project Overview
+🎯 Project Overview:
+
 You’ve built a modular, object-oriented task manager system that showcases fluency in Python fundamentals and advanced constructs. This project simulates a real-world application used to:
 
 Add, manage, and filter tasks
@@ -32,12 +33,15 @@ Phase	Concept	Description
 7	Decorators, Multithreading, Manual Triggers	Created a reminder decorator and allowed user-controlled execution
 
 🧠 Technical Skills Demonstrated
+
 ✅ Software Design
+
 Modular architecture (main.py, task.py, task_list.py, etc.)
 
 Custom TaskList iterable class for iteration abstraction
 
 ✅ Clean Code & Best Practices
+
 Separated concerns between logic, I/O, and data representation
 
 Used decorators for cross-cutting concerns (reminders/logging)
@@ -45,6 +49,7 @@ Used decorators for cross-cutting concerns (reminders/logging)
 Used __name__ == "__main__" for executable script entry
 
 ✅ Advanced Python Proficiency
+
 List comprehensions for efficient filtering
 
 Decorators to wrap functionality
